@@ -15,4 +15,4 @@
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-![Snake animation](https://github.com/Wayne5421/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Wayne5421/Wayne5421/blob/output/github-contribution-grid-snake.svg)
