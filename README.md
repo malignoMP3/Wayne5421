@@ -23,10 +23,4 @@ python developer 🐍
               I dream to be full stack 🔱
 ```
 
-<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
-<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
-<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
-<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
-<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
-<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
-<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
+<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
