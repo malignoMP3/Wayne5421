@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">
+<img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">  things about me...<img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px"> 
 
 ```python
 print('nickname = Wayne 🦇')
