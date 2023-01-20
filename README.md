@@ -15,9 +15,9 @@
 <img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">
 
 ```python
-nickname = Wayne 🦇
-computer engineer💻
-python developer 🐍
+print('nickname = Wayne 🦇')
+print('computer engineer💻')
+print('python developer 🐍')
               game: Don't Starve and League of Legends 👾
               hobbies: play guitar and read one piece 🏴‍☠️🎸
               I dream to be full stack 🔱
