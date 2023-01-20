@@ -14,7 +14,7 @@
 
 <img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">
 
-```javascript
+```python
 nickname = Wayne 🦇
 computer engineer💻
 python developer 🐍
@@ -23,4 +23,10 @@ python developer 🐍
               I dream to be full stack 🔱
 ```
 
-<img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px">
+<img src="https://i.gifer.com/bf0.gif"  height="60px">
+<img src="https://i.gifer.com/bf0.gif"  height="60px">
+<img src="https://i.gifer.com/bf0.gif"  height="60px">
+<img src="https://i.gifer.com/bf0.gif"  height="60px">
+<img src="https://i.gifer.com/bf0.gif"  height="60px">
+<img src="https://i.gifer.com/bf0.gif"  height="60px">
+<img src="https://i.gifer.com/bf0.gif"  height="60px">
