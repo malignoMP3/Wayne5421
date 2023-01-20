@@ -12,9 +12,15 @@
   </a>
 </p>
 
-<img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="130px">
+<img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">
 
 ```javascript
+nickname = Wayne 🦇
+computer engineer💻
+python developer 🐍
+              game: Don't Starve and League of Legends 👾
+              hobbies: play guitar and read one piece 🏴‍☠️🎸
+              I dream to be full stack 🔱
 ```
 
-<img src="https://i.gifer.com/origin/28/2860d2d8c3a1e402e0fc8913cd92cd7a_w200.webp" height="60px">
+<img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px"><img src="https://i.gifer.com/bf0.gif"  height="60px">
