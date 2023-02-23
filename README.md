@@ -16,7 +16,7 @@
 
 ```python
 print('nickname = Wayne 🦇')
-print('computer engineer💻')
+print('information systems 💻')
 print('python developer 🐍')
               print('personal things')
               [game: Don't Starve and League of Legends 👾]
