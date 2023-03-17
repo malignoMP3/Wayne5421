@@ -17,11 +17,11 @@
 ```python
 print('nickname = Wayne 🦇')
 print('information systems 💻')
-print('python developer 🐍')
+print('back-end development 🖥️')
               print('personal things')
-              [game: Don't Starve and League of Legends 👾]
+              [games: Don't Starve and League of Legends 👾]
               [hobbies: play guitar and read one piece 🏴‍☠️🎸]
-              [I dream to be full stack 🔱]
+              [level: intern 1️⃣]
                                              [technologies: 'Python', 'JavaScript' 'Node.JS', 'React', 'Java', 'C#']
 ```
 
