@@ -22,7 +22,7 @@ print('back-end development 🖥️')
               [games: Don't Starve and League of Legends 👾]
               [hobbies: play guitar and read one piece 🏴‍☠️🎸]
               [level: intern 1️⃣]
-                                             [technologies: 'Python', 'JavaScript' 'Node.JS', 'React', 'Java', 'C#']
+                                             [technologies: 'Python', 'Java', 'C#']
 ```
 
 <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
