@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/Wayne5421/Wayne5421/blob/output/github-contribution-grid-snake.svg)
 
 
 <h1>Hi, I'm  Caio <img src="https://media.tenor.com/0GRl16naN8YAAAAj/pokemon-nintendo.gif" height="70px"></h2> 
