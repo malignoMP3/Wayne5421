@@ -16,12 +16,12 @@
 ```python
 print('nickname = Wayne 🦇')
 print('information systems 💻')
-print('mobile developer 🖥')
+print('frontend developer 🖥')
               print('personal things')
               [games: Don't Starve and League of Legends 👾]
               [hobbies: play guitar and read one piece | berserk 🏴‍☠️🎸]
               [level: intern 1️⃣]
-                                             [technologies: 'Dart with Flutter', 'Python', 'MySQL', 'Java']
+                                  [technologies: 'JavaScript + HTML/CSS', 'Dart with Flutter', 'Python', 'MySQL', 'Java']
 ```
 
 <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
