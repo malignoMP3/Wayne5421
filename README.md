@@ -21,7 +21,7 @@ print('frontend developer 🖥')
               [games: Don't Starve and League of Legends 👾]
               [hobbies: play guitar and read one piece | berserk 🏴‍☠️🎸]
               [level: intern 1️⃣]
-                                  [technologies: 'Java' & 'JavaScript | TypeScript' & 'Angular' & 'Flutter' & 'MySQL']
+                                  [technologies: 'Python' & 'TypeScript | 'Flask' & 'Angular' & 'PostgreSQL' | 'Flutter' & 'Java' ]
 ```
 
 <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
