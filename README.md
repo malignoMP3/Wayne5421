@@ -18,9 +18,8 @@ print('nickname = Maligno 🦇')
 print('information systems 💻')
 print('frontend developer 🖥')
               print('personal things')
-              [games: Don't Starve and League of Legends 👾]
               [hobbies: play guitar and read one piece | berserk 🏴‍☠️🎸]
-              [level: intern 1️⃣]
+              [level: entry 1️⃣]
                                   [technologies: 'Python' & 'TypeScript | 'Flask' & 'Angular' & 'PostgreSQL' | 'Java' ]
 ```
 
