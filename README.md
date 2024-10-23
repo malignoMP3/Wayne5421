@@ -14,14 +14,14 @@
 <img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">  things about me...<img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px"> 
 
 ```python
-print('nickname = Wayne 🦇')
+print('nickname = Maligno 🦇')
 print('information systems 💻')
 print('frontend developer 🖥')
               print('personal things')
               [games: Don't Starve and League of Legends 👾]
               [hobbies: play guitar and read one piece | berserk 🏴‍☠️🎸]
               [level: intern 1️⃣]
-                                  [technologies: 'Python' & 'TypeScript | 'Flask' & 'Angular' & 'PostgreSQL' | 'Flutter' & 'Java' ]
+                                  [technologies: 'Python' & 'TypeScript | 'Flask' & 'Angular' & 'PostgreSQL' | 'Java' ]
 ```
 
 <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px"><img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  height="60px">
