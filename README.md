@@ -1,17 +1,22 @@
+<h1>Hi, I'm Caio 
+  <img src="https://media.tenor.com/0GRl16naN8YAAAAj/pokemon-nintendo.gif" height="70px">
+</h1>
 
-
-<h1>Hi, I'm  Caio <img src="https://media.tenor.com/0GRl16naN8YAAAAj/pokemon-nintendo.gif" height="70px"></h2> 
-
-<p> <br>
+<p><br>
   <a href="https://www.linkedin.com/in/caio-gabriel-775866237/" target="_blank">
-  <img src= "https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/maligno_mp3" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
-<img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">  things about me...<img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px"> 
+<p>
+  <img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">
+  things about me...
+  <img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">
+</p>
+
 
 ```python
 print('nickname = Maligno 🦇')
