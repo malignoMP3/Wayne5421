@@ -3,10 +3,10 @@
 <h1>Hi, I'm  Caio <img src="https://media.tenor.com/0GRl16naN8YAAAAj/pokemon-nintendo.gif" height="70px"></h2> 
 
 <p> <br>
-  <a href="https://www.linkedin.com/in/caio-gabriel-775866237/", target="_blank">
+  <a href="https://www.linkedin.com/in/caio-gabriel-775866237/" target="_blank">
   <img src= "https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/wayne_mp3/", target="_blank">
+  <a href="https://www.instagram.com/maligno_mp3" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
